@@ -49,7 +49,7 @@
     <ClInclude Include="RpcConstants.h" />
   </ItemGroup>
   <PropertyGroup>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
     <GenerateManifest>true</GenerateManifest>
     <WindowsSDKDesktopARMSupport>true</WindowsSDKDesktopARMSupport>
